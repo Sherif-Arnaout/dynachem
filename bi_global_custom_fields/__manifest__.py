@@ -14,7 +14,7 @@
 				gubal custome fields and tabs,
 	
 	""",
-    "author": "BrowseInfo",
+    "author": "Sherif Ali",
     "website": "https://www.browseinfo.com",
     "price": 89,
     'license': 'OPL-1',
